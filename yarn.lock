@@ -6629,6 +6629,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"explorer@workspace:packages/explorer":
+  version: 0.0.0-use.local
+  resolution: "explorer@workspace:packages/explorer"
+  dependencies:
+    "@reduxjs/toolkit": ^1.6.2
+    "@types/react": ^17.0.37
+    "@types/react-redux": ^7.1.20
+    react: ^17.0.2
+    react-redux: ^7.2.6
+    rxjs: ^7.4.0
+  languageName: unknown
+  linkType: soft
+
 "express@npm:^4.17.1":
   version: 4.17.1
   resolution: "express@npm:4.17.1"
