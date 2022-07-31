@@ -4780,6 +4780,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"camera@workspace:packages/camera":
+  version: 0.0.0-use.local
+  resolution: "camera@workspace:packages/camera"
+  dependencies:
+    "@types/react": ^17.0.37
+    react: ^17.0.2
+    react-redux: ^7.2.6
+  languageName: unknown
+  linkType: soft
+
 "caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001125, caniuse-lite@npm:^1.0.30001280":
   version: 1.0.30001284
   resolution: "caniuse-lite@npm:1.0.30001284"
@@ -5074,6 +5084,19 @@ __metadata:
   checksum: 98aa2c2418ad87dedf25d781be69dc5fc5908e279d9d30c34d8b702e586a0474605b3a189511482b9d5ed0d20c867515d22749537f7bc546256c6014f3ebdcec
   languageName: node
   linkType: hard
+
+"combat@workspace:packages/combat":
+  version: 0.0.0-use.local
+  resolution: "combat@workspace:packages/combat"
+  dependencies:
+    "@reduxjs/toolkit": ^1.6.2
+    "@types/react": ^17.0.37
+    "@types/react-redux": ^7.1.20
+    react: ^17.0.2
+    react-redux: ^7.2.6
+    rxjs: ^7.4.0
+  languageName: unknown
+  linkType: soft
 
 "combined-stream@npm:^1.0.8":
   version: 1.0.8
