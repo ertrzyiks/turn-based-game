@@ -1,8 +1,8 @@
 {
   "name": "camera",
   "dependencies": {
-    "@types/react": "^17.0.37",
+    "@types/react": "^17.0.48",
     "react": "^17.0.2",
-    "react-redux": "^7.2.6"
+    "react-redux": "^7.2.8"
   }
 }
